@@ -1,0 +1,13 @@
+.counter{
+    width: 200px;
+    margin: 50px auto;
+    text-align: center;
+    background: grey;
+    border-radius: 5px;
+}
+button{
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
